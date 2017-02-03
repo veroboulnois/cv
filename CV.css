@@ -1,0 +1,47 @@
+body
+{
+	font-size:x-large;
+}
+ul
+{
+	color:darkblue;
+}
+h1
+{
+		text-align:center;
+	}
+	.job
+	{
+		border: 3px black double;
+		width: 30%;
+		margin-left:35%;
+		background-image: url("img2/imagecv.jpg");
+		font-weight: bold;
+		height: 120px;
+	}
+		h3
+	{
+		text-align:center;
+	}
+		div
+	{
+		text-align:center;
+	}
+body
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+body
+{
+background: url("img/photomoi.jpg") fixed no-repeat top right, url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+div
+{
+	border: 3px purple double;
+}
+div
+{
+	text-shadow:3px 1px 3px purple;
+}
